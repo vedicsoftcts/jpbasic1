@@ -9,3 +9,4 @@ public class jpif1 {
            System.out.println("Biggest is " +a);
        }
     }
+}
