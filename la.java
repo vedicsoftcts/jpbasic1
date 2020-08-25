@@ -1,4 +1,4 @@
-public class jpif1 {
+public class la {
 
     public static void main(String[] args) {
        int a,b;
@@ -8,6 +8,11 @@ public class jpif1 {
 	if (a>b)
        {
            System.out.println("Biggest is " +a);
-       }
+	}
+	else
+	{
+	System.out.println("Biggest is " +b);
+	}
+	
     }
 }
