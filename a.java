@@ -3,6 +3,6 @@ class a{
 		System.out.println("Hi! \nWelcome everyone!");
 		int a =12;
 		int b =10;
-		Sytem.out.println("a+b=" + a+b); 
+		System.out.println("a+b=" + a+b); 
 }
 }
