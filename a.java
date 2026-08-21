@@ -7,5 +7,6 @@ class a{
 		System.out.println("a= " + a);
 		System.out.println("b= " + b);
 		System.out.println("a+b=" + c);
+		System.out.println("Java Additions Test");
 }
 }
